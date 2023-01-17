@@ -1,0 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+.box {
+  background: greenyellow;
+  padding: 10px;
+}

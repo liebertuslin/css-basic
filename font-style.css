@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  padding: 0 2rem 0;
+  font-size: 100px;
+  color: black;
+  font-variant: small-caps;
+  font-style: italic;
+}
+
+p {
+  padding: 0 2rem;
+  font-family: arial;
+  color: grey;
+}
